@@ -35,9 +35,9 @@ Here are some ideas to get you started: -->
 ![Github](https://img.shields.io/badge/-Github-black?logo=GitHub&logoColor=white&style=for-the-badge)
 ![FLutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-![Android Development]
-![Mobile App development]
-![Web development]
+[Android Development]
+[Mobile App development]
+[Web development]
 
 ## 📈 Some of my GitHub stats:
 
