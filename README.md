@@ -47,6 +47,15 @@ Here are some ideas to get you started: -->
 
 ![](https://komarev.com/ghpvc/?username=Shonu72-hash&style=flat-square)
 
+<div align="center">
+
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=Shonu72&custom_title=Sonu's+GitHub+stats&show_icons=true&&hide_border=true&count_private=true&bg_color=00000000&title_color=ff7a0d&text_color=F6C819&icon_color=ffb300&cache_seconds=1800" />
+<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Shonu72&background=00000000&hide_border=true&stroke=F6C819&ring=ff960d&fire=ffd500&currStreakNum=ff7a0d&sideNums=ff7a0d&currStreakLabel=F6C819&sideLabels=F6C819&dates=F6C819" />
+  
+</div>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=Shonu72&theme=react-dark&bg_color=00000000&color=ff7a0d&line=ffb300&point=ff7a0d&area=true&hide_border=true&area_color=F6C819"><br>
+
 ## 🧰 My Toolbox:
 
 ![intellij%20idea%20ultimate](https://img.shields.io/badge/-intellij%20idea%20ultimate-black?logo=IntelliJ%20IDEA&logoColor=dc14d0&style=for-the-badge)
