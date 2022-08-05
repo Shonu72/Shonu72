@@ -45,7 +45,7 @@ Here are some ideas to get you started: -->
 
 ## 📈 Some of my GitHub stats:
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={shonu72}&theme=blue-green
+![](https://komarev.com/ghpvc/?username=Shonu72-hash&style=flat-square)
 
 ## 🧰 My Toolbox:
 
