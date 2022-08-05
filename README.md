@@ -35,13 +35,9 @@ Here are some ideas to get you started: -->
 ![Github](https://img.shields.io/badge/-Github-black?logo=GitHub&logoColor=white&style=for-the-badge)
 ![FLutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-<!-- ![Docker](https://img.shields.io/badge/-Docker-blue?logo=Docker&logoColor=white&style=for-the-badge)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?logo=Kubernetes&logoColor=fafafa&style=for-the-badge)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-f30b0b?style=for-the-badge&logo=Ansible)
-![terraform](https://img.shields.io/badge/-terraform-blueviolet?style=for-the-badge&logo=Terraform)
-![kafka](https://img.shields.io/badge/-kafka-555555?style=for-the-badge&logo=Apache%20Kafka)
-![Azure%20DevOps](https://img.shields.io/badge/-Azure%20DevOps-027dc3?logo=Azure%20DevOps&logoColor=white&style=for-the-badge) -->
+![Android Development]
+![Mobile App development]
+![Web development]
 
 ## 📈 Some of my GitHub stats:
 
@@ -58,10 +54,15 @@ Here are some ideas to get you started: -->
 
 ## 🧰 My Toolbox:
 
-![intellij%20idea%20ultimate](https://img.shields.io/badge/-intellij%20idea%20ultimate-black?logo=IntelliJ%20IDEA&logoColor=dc14d0&style=for-the-badge)
-![pycharm%20professional](https://img.shields.io/badge/-pycharm%20professional-ffc900?logo=PyCharm&logoColor=348a13&style=for-the-badge)
-![%20atom](https://img.shields.io/badge/-%20atom-f6a376?logo=Atom&logoColor=black&style=for-the-badge)
 ![VS%20Code](https://img.shields.io/badge/-VS%20Code-black?logo=Visual%20Studio%20Code&logoColor=059df4&style=for-the-badge)
+
+![android%20studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+![intellij%20idea](https://img.shields.io/badge/-intellij%20idea%20ultimate-black?logo=IntelliJ%20IDEA&logoColor=dc14d0&style=for-the-badge)
+
+![sublime%20text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
+
+![visula%20studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
 ## 📫 Say hello:
 
@@ -72,9 +73,11 @@ Here are some ideas to get you started: -->
 <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-blue?logo=Twitter&logoColor=white&style=for-the-badge"> </a>
  <a href="https://leetcode.com/shonu72/">
 <img alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"> </a>
+
 <a href="https://www.instagram.com/its_zero_one/">
 <img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
 <a href = "https://developers.google.com/profile/u/117406083765912123213"><img alt="google%20developer%20" src="https://img.shields.io/badge/-google%20developer%20-f35902?logo=Google%20Search%20Console&logoColor=white&style=for-the-badge">
 </a>
-<a href = "https://www.cloudskillsboost.google/public_profiles/55b01759-2766-4676-bf85-452c10f2a429"><img alt="google%20developer%20" src="https://img.shields.io/badge/-google%20developer%20-f35902?logo=Google%20Search%20Console&logoColor=white&style=for-the-badge">
+<a href = "https://www.cloudskillsboost.google/public_profiles/55b01759-2766-4676-bf85-452c10f2a429"><img alt="google%20Cloud%20" src="https://img.shields.io/badge/-google%20developer%20-f35902?logo=Google%20Search%20Console&logoColor=white&style=for-the-badge">
 </a>
