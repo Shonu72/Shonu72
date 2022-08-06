@@ -48,16 +48,12 @@ Here are some ideas to get you started: -->
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Shonu72&theme=react-dark&bg_color=00000000&color=ff7a0d&line=ffb300&point=ff7a0d&area=true&hide_border=true&area_color=F6C819"><br>
 
-## 🧰 My Toolbox/IDE I use:
+## 🧰 My Toolbox/IDE:
 
 ![VS%20Code](https://img.shields.io/badge/-VS%20Code-black?logo=Visual%20Studio%20Code&logoColor=059df4&style=for-the-badge)
-
 ![android%20studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
 ![intellij%20idea](https://img.shields.io/badge/-intellij%20idea%20ultimate-black?logo=IntelliJ%20IDEA&logoColor=dc14d0&style=for-the-badge)
-
 ![sublime%20text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
-
 ![visula%20studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
 ## 📫 Socials:
