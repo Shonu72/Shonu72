@@ -1,12 +1,9 @@
-# Hey everyone, I'm [Sonu](https://shonu72.github.io/myportfolio.github.io/)!
-
-<!--
-**akshatcoder-hash/akshatcoder-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey everyone👋, I'm [Sonu](https://shonu72.github.io/myportfolio.github.io/)!
 
 Here are some ideas to get you started: -->
 
-- 🎓 I have done 3 internship in web development and have 1 year experience in android development usign Java & Kotlin and now Learning Flutter dev and practicing DSA.
-- 🎓 I’m just completed my Bachelors in Computer Application(BCA) from Gossner College Ranchi.
+- 🎓 I have done 3 internships in web development and have 1-year experience in android development using Java and Kotlin now Learning Flutter dev and practicing DSA.
+- 🎓 I’ve just completed my Bachelors in Computer Application(BCA) from Gossner College Ranchi.
   👯 You can look into my [Linkedin](https://www.linkedin.com/in/sonu7250/).
 
 <!-- 🤔 I’m looking for help in ... -->
@@ -28,16 +25,15 @@ Here are some ideas to get you started: -->
 
 ## ✨ I know about:
 
-![Linux](https://img.shields.io/badge/-Linux-darkcyan?logo=Linux&logoColor=black&style=for-the-badge)
+[Android Development],
+[Mobile App development],
+[Web development],
+![FLutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-white?logo=Git&logoColor=f01313&style=for-the-badge)
 ![Github](https://img.shields.io/badge/-Github-black?logo=GitHub&logoColor=white&style=for-the-badge)
-![FLutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-[Android Development]
-[Mobile App development]
-[Web development]
+![Linux](https://img.shields.io/badge/-Linux-darkcyan?logo=Linux&logoColor=black&style=for-the-badge)
 
 ## 📈 Some of my GitHub stats:
 
@@ -52,7 +48,7 @@ Here are some ideas to get you started: -->
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Shonu72&theme=react-dark&bg_color=00000000&color=ff7a0d&line=ffb300&point=ff7a0d&area=true&hide_border=true&area_color=F6C819"><br>
 
-## 🧰 My Toolbox:
+## 🧰 My Toolbox/IDE I use:
 
 ![VS%20Code](https://img.shields.io/badge/-VS%20Code-black?logo=Visual%20Studio%20Code&logoColor=059df4&style=for-the-badge)
 
@@ -64,7 +60,7 @@ Here are some ideas to get you started: -->
 
 ![visula%20studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
-## 📫 Say hello:
+## 📫 Socials:
 
 <a href="https://www.linkedin.com/in/sonu72/">
 <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
