@@ -9,8 +9,6 @@ Here are some ideas to get you started: -->
 
 <!-- 🤔 I’m looking for help in ... -->
 
-[![@shonu72's Holopin board](https://holopin.me/shonu72)](https://holopin.io/@shonu72)
-
 ## 🗣️ I can speak:
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
@@ -50,6 +48,9 @@ Here are some ideas to get you started: -->
 </div>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Shonu72&theme=react-dark&bg_color=00000000&color=ff7a0d&line=ffb300&point=ff7a0d&area=true&hide_border=true&area_color=F6C819"><br>
+
+## 🗣️ My open source contribution badges:
+[![@shonu72's Holopin board](https://holopin.me/shonu72)](https://holopin.io/@shonu72)
 
 ## 🧰 My Toolbox/IDE:
 
