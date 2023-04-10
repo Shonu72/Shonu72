@@ -2,10 +2,10 @@
 
 Here are some ideas to get you started: -->
 
-- 🎓 I  have 1-year experience in android development using Java and Kotlin now Learning Flutter dev and practicing DSA, have done 3 internships in web development         and
+- 🎓 I  have 1-year experience in android development using Java and Kotlin now Learning Flutter dev and practicing DSA, have done 3 internships in web development and
 - 🎓 I’ve have completed my Bachelors in Computer Application(BCA) from Gossner College Ranchi with 8.58 CGPA.
 - 🎓 I am currently pursuing MCA from Lovely Professional University, Punjab.
-  👯 You can look into my [Linkedin](https://www.linkedin.com/in/sonu7250/).
+- You can look into my [Linkedin](https://www.linkedin.com/in/sonu7250/)
 
 <!-- 🤔 I’m looking for help in ... -->
 
