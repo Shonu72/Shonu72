@@ -69,7 +69,9 @@ Here are some ideas to get you started: -->
 <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-blue?logo=Twitter&logoColor=white&style=for-the-badge"> </a>
  <a href="https://leetcode.com/shonu72/">
 <img alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"> </a>
-
+<a href="https://www.codechef.com/users/shour77">
+<img alt="CodeChef" src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white)">
+ </a>
 <a href="https://www.instagram.com/its_zero_one/">
 <img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
