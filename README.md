@@ -1,6 +1,5 @@
 # Hey everyone👋, I'm [Sonu](https://shonu72.github.io/myportfolio.github.io/)!
 
-Here are some ideas to get you started: -->
 
 - 🎓 I  have 1-year experience in android development using Java and Kotlin now Learning Flutter dev and practicing DSA, have done 3 internships in web development and
 - 🎓 I’ve have completed my Bachelors in Computer Application(BCA) from Gossner College Ranchi with 8.58 CGPA.
