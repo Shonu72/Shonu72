@@ -7,7 +7,7 @@
 - I am currently pursuing MCA from Lovely Professional University, Punjab.
 - You can look into my [Linkedin](https://www.linkedin.com/in/sonu7250/)
 
-## 🗣️ I can speak:
+## Language & Tools :
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![java](https://img.shields.io/badge/-java-black?logo=Java&logoColor=f95704&style=for-the-badge)
@@ -17,6 +17,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffc700?logo=JavaScript&logoColor=black&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-ffc700?logo=Python&logoColor=2e8517&style=for-the-badge)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -67,12 +68,15 @@
 <a href="https://www.codechef.com/users/shour77">
 <img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white">
  </a>
+ <a href="https://auth.geeksforgeeks.org/user/shourya7250">
+<img alt="Geeksforgeeks" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c">
+ </a>
 <a href="https://www.instagram.com/its_zero_one/">
 <img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 <a href = "https://developers.google.com/profile/u/117406083765912123213"><img alt="google%20developer%20" src="https://img.shields.io/badge/-google%20developer%20-f35902?logo=Google%20Search%20Console&logoColor=white&style=for-the-badge">
 </a>
-<a href = "https://www.cloudskillsboost.google/public_profiles/55b01759-2766-4676-bf85-452c10f2a429"><img alt="google%20Cloud%20" src="https://img.shields.io/badge/-google%20developer%20-f35902?logo=Google%20Search%20Console&logoColor=white&style=for-the-badge">
+<a href = "https://www.cloudskillsboost.google/public_profiles/55b01759-2766-4676-bf85-452c10f2a429"><img alt="google%20Cloud%20" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
 </a>
 
 [![Sonu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shonu72&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/Shonu72/github-readme-activity-graph)	
