@@ -1,8 +1,10 @@
-# Hello everyone👋, I'm [Sonu](https://shonu72.github.io/myportfolio.github.io/)!
+### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Nishit+Welcome+to+my+Github+Profile!" align="middle" alt=" Hello everyone👋, I'm Sonu Welcome to my Profile! animated typed out">
 
-- 🎓 I  have 1-year experience in android development using Java and Kotlin now Learning Flutter dev and practicing DSA, have done 3 internships in web development and
-- 🎓 I’ve have completed my Bachelors in Computer Application(BCA) from Gossner College Ranchi with 8.58 CGPA.
-- 🎓 I am currently pursuing MCA from Lovely Professional University, Punjab.
+- I am an aspiring software developer who is having expertise in Mobile app development with Flutter & Kotlin, and in web development with HTML,CSS,JavaScript,PHP.
+- I have done 3 internships in web development domain as full stack developer 
+- I also do open source contributions, In Oct 2022 i have participated in Hacktoberfest and 2 PRs was merged to main branch.
+- I always look for opportunities to collaborate on new and innovative ideas. To learn more about me, please feel free to connect with me.  
+- I am currently pursuing MCA from Lovely Professional University, Punjab.
 - You can look into my [Linkedin](https://www.linkedin.com/in/sonu7250/)
 
 ## 🗣️ I can speak:
@@ -75,3 +77,21 @@
 </a>
 <a href = "https://www.cloudskillsboost.google/public_profiles/55b01759-2766-4676-bf85-452c10f2a429"><img alt="google%20Cloud%20" src="https://img.shields.io/badge/-google%20developer%20-f35902?logo=Google%20Search%20Console&logoColor=white&style=for-the-badge">
 </a>
+
+
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shonu72&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shonu72&theme=tokyonight"/>
+	<details>
+  <summary><b>:zap:TOP LANGUAGE </b></summary>
+	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shonu72&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+
+	
+[![Sonu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shonu72&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/Shonu72/github-readme-activity-graph)	
+	
+	
+	
+	
