@@ -1,4 +1,4 @@
-### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Nishit+Welcome+to+my+Github+Profile!" align="middle" alt=" Hello everyone👋, I'm Sonu Welcome to my Profile! animated typed out">
+### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Sonu+Welcome+to+my+Github+Profile!" align="middle" alt=" Hello everyone👋, I'm Sonu Welcome to my Profile! animated typed out">
 
 - I am an aspiring software developer who is having expertise in Mobile app development with Flutter & Kotlin, and in web development with HTML,CSS,JavaScript,PHP.
 - I have done 3 internships in web development domain as full stack developer 
@@ -84,7 +84,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shonu72&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shonu72&theme=tokyonight"/>
 	<details>
-  <summary><b>:zap:TOP LANGUAGE </b></summary>
+  <b>TOP LANGUAGE </b>
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shonu72&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </p>
