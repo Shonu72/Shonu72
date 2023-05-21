@@ -1,4 +1,4 @@
-### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hell0%2C+I'm+Sonu+Welcome+to+my+Github+Profile!" align="middle" alt=" Hello everyone👋, I'm Sonu Welcome to my Profile! animated typed out">
+### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Sonu+Welcome+to+my+Github+Profile!" align="middle" alt=" Hello everyone👋, I'm Sonu Welcome to my Profile! animated typed out">
 
 - I am an aspiring software developer who is having expertise in Mobile app development with Flutter & Kotlin, and in web development with HTML,CSS,JavaScript,PHP.
 - I have done 3 internships in web development domain as full stack developer 
@@ -37,22 +37,15 @@
 ## 📈 Some of my GitHub stats:
 
 ![](https://komarev.com/ghpvc/?username=Shonu72-hash&style=flat-square)
-
-<!-- <div align="center">
-
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=Shonu72&custom_title=Sonu's+GitHub+stats&show_icons=true&&hide_border=true&count_private=true&bg_color=00000000&title_color=ff7a0d&text_color=F6C819&icon_color=ffb300&cache_seconds=1800" />
-<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Shonu72&background=00000000&hide_border=true&stroke=F6C819&ring=ff960d&fire=ffd500&currStreakNum=ff7a0d&sideNums=ff7a0d&currStreakLabel=F6C819&sideLabels=F6C819&dates=F6C819" />
-  
-</div> -->
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shonu72&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shonu72&theme=tokyonight"/>
 </p>
 
-<!-- <img src="https://activity-graph.herokuapp.com/graph?username=Shonu72&theme=react-dark&bg_color=00000000&color=ff7a0d&line=ffb300&point=ff7a0d&area=true&hide_border=true&area_color=F6C819"><br> -->
-
-## 🗣️ My open source contribution badges:
+## 🗣️ My Open-Source contribution badges:
+<div>
 [![@shonu72's Holopin board](https://holopin.me/shonu72)](https://holopin.io/@shonu72)
+</div>
 
 ## 🧰 My Toolbox/IDE:
 
@@ -82,11 +75,6 @@
 <a href = "https://www.cloudskillsboost.google/public_profiles/55b01759-2766-4676-bf85-452c10f2a429"><img alt="google%20Cloud%20" src="https://img.shields.io/badge/-google%20developer%20-f35902?logo=Google%20Search%20Console&logoColor=white&style=for-the-badge">
 </a>
 
-
-
-  <b>TOP LANGUAGE </b>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shonu72&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-	
 [![Sonu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shonu72&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/Shonu72/github-readme-activity-graph)	
 	
 	
