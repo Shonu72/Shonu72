@@ -43,9 +43,9 @@
 </p>
 
 ## 🗣️ My Open-Source contribution badges:
-<div>
+
 [![@shonu72's Holopin board](https://holopin.me/shonu72)](https://holopin.io/@shonu72)
-</div>
+
 
 ## 🧰 My Toolbox/IDE:
 
