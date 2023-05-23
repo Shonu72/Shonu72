@@ -79,8 +79,7 @@
 <a href = "https://www.cloudskillsboost.google/public_profiles/55b01759-2766-4676-bf85-452c10f2a429"><img alt="google%20Cloud%20" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
 </a>
 
-
-[![Sonu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shonu72)](https://github.com/Shonu72/github-readme-activity-graph)
+[![Github Activity graph](https://activity-graph.herokuapp.com/graph?username=Shonu72&theme=react-dark&hide_border=true&custom_title=Activity%20Graph)](https://github.com/MrKrishnaAgarwal/readme-components-github)
 
 	
 	
