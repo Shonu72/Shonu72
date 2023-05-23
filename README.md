@@ -80,7 +80,7 @@
 </a>
 
 [![Sonu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shonu72&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")]
-https://github.com/Shonu72/github-readme-activity-graph	
+(https://github.com/Shonu72/github-readme-activity-graph)	
 
 	
 	
