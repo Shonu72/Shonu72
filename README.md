@@ -39,6 +39,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Shonu72-hash&style=flat-square)
 <p align="center">
+	[![Sonu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shonu72)](https://github.com/anuraghazra/github-readme-stats)
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shonu72&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://streak-stats.demolab.com/?user=Shonu72&theme=tokyonight"/>
 </p>
