@@ -40,7 +40,7 @@
 ![](https://komarev.com/ghpvc/?username=Shonu72-hash&style=flat-square)
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shonu72&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shonu72&theme=tokyonight"/>
+  <img width="48%" src="\https://streak-stats.demolab.com/?user=Shonu72&theme=tokyonight"/>
 </p>
 
 ## 🗣️ My Open-Source contribution badges:
@@ -79,8 +79,6 @@
 <a href = "https://www.cloudskillsboost.google/public_profiles/55b01759-2766-4676-bf85-452c10f2a429"><img alt="google%20Cloud%20" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
 </a>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shonu72&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 [![Sonu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shonu72)](https://github.com/Shonu72/github-readme-activity-graph)
 
