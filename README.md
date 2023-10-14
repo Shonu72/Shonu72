@@ -1,10 +1,10 @@
 ### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Sonu+Welcome+to+my+Github+Profile!" align="middle" alt=" Hello everyone👋, I'm Sonu Welcome to my Profile! animated typed out">
 
-- I am an aspiring software developer who is having expertise in Mobile app development with Flutter & Kotlin, and in web development with HTML,CSS,JavaScript,PHP.
-- I have done 3 internships in web development domain as full stack developer 
-- I also do open source contributions, In Oct 2022 i have participated in Hacktoberfest and 2 PRs was merged to main branch.
+- I am an aspiring software developer with expertise in Mobile app development with Flutter & Kotlin, and in web development with HTML, CSS, JavaScript, PHP.
+- I have done 3 internships in the web development domain as full-stack developer 
+- I also do open source contributions, In Hacktoberfest' my 2 PRs and in Hacktoberfest'23 all 4 PRs were merged to the main branch.
 - I always look for opportunities to collaborate on new and innovative ideas. To learn more about me, please feel free to connect with me.  
-- I am currently pursuing MCA from Lovely Professional University, Punjab.
+- I am currently pursuing an MCA from Lovely Professional University, Punjab.
 - You can look into my [Linkedin](https://www.linkedin.com/in/sonu7250/)
 
 ## Language & Tools :
@@ -43,7 +43,7 @@
   <img width="48%" src="https://streak-stats.demolab.com/?user=Shonu72&theme=tokyonight"/>
 </p>
 
-## 🗣️ My Open-Source contribution badges:
+## 🗣️ My Open-Source contribution badges (from 2022 to 2023):
 
 [![@shonu72's Holopin board](https://holopin.me/shonu72)](https://holopin.io/@shonu72)
 
