@@ -1,6 +1,7 @@
-### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Sonu+Welcome+to+my+Github+Profile!" align="middle" alt=" Hey👋, Welcome to my Profile! animated typed out">
+### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+Welcome+to+my+Github+Profile!" align="middle" alt=" Hey👋, Welcome to my Profile! animated typed out">
 
-- A developer who loves to build cool things using Flutter, Kotlin, Machine learning & AI 😎🧑‍💻. 
+- A developer who loves to build cool things using Flutter, Kotlin, Machine learning & AI 😎🧑‍💻.
+- contact me on [Email](sonu.shour77@gmail.com)
 
 ## Language & Tools :
 
@@ -53,7 +54,7 @@
 
 ## 📫My Socials:
 
-<a href="https://www.linkedin.com/in/sonu72/">
+<a href="https://www.linkedin.com/in/sonu7250/">
 <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
  <a href="https://twitter.com/KushwahaShonu">
