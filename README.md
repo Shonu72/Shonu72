@@ -1,8 +1,8 @@
-### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Sonu+Welcome+to+my+Github+Profile!" align="middle" alt=" Hello everyone👋, I'm Sonu Welcome to my Profile! animated typed out">
+### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Sonu+Welcome+to+my+Github+Profile!" align="middle" alt=" Hey👋, Welcome to my Profile! animated typed out">
 
 - A developer who builds cool things using Flutter, Python, and web technologies 😎🧑‍💻
 - 
--  [Linkedin](https://www.linkedin.com/in/sonu7250/)
+- My [Linkedin](https://www.linkedin.com/in/sonu7250/)
 
 ## Language & Tools :
 
@@ -53,7 +53,7 @@
 ![sublime%20text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![visula%20studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
-## 📫 Socials:
+## 📫My Socials:
 
 <a href="https://www.linkedin.com/in/sonu72/">
 <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
