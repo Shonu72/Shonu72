@@ -1,4 +1,4 @@
-### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+Welcome+to+my+Github+Profile!" align="middle" alt=" Hey👋, Welcome to my Profile! animated typed out">
+### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&width=940&height=50&lines=Hey%2C+Welcome+to+my+Github+Profile!" align="middle" alt=" Hey👋, Welcome to my Profile! animated typed out">
 
 - A developer who loves to build cool things using Flutter, Kotlin, Machine learning & AI 😎🧑‍💻.
 - contact me on [Email](sonu.shour77@gmail.com)
