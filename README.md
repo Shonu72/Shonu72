@@ -1,8 +1,6 @@
 ### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Sonu+Welcome+to+my+Github+Profile!" align="middle" alt=" Hey👋, Welcome to my Profile! animated typed out">
 
-- A developer who builds cool things using Flutter, Python, and web technologies 😎🧑‍💻
-- 
-- My [Linkedin](https://www.linkedin.com/in/sonu7250/)
+- A developer who loves to build cool things using Flutter, Kotlin, Machine learning & AI 😎🧑‍💻. 
 
 ## Language & Tools :
 
