@@ -39,7 +39,7 @@
   <img width="48%" src="https://streak-stats.demolab.com/?user=Shonu72&theme=tokyonight"/>
 </p>
 
-## 🗣️ My Open-Source contribution badges (from 2022 to 2023):
+## 🗣️ My Open-Source contribution badges (from 2022 to 2024):
 
 [![@shonu72's Holopin board](https://holopin.me/shonu72)](https://holopin.io/@shonu72)
 
