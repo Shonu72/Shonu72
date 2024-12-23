@@ -77,7 +77,7 @@
 
 [![roadmap.sh](https://roadmap.sh/card/wide/6769035770129741a8b41125?variant=dark&roadmaps=golang)](https://roadmap.sh)
 
-[![Activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shonu72)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sonu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shonu72&theme=dracula)](https://github.com/Shonu72/github-readme-activity-graph)
 
 	
 	
