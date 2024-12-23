@@ -75,6 +75,8 @@
 <a href = "https://www.cloudskillsboost.google/public_profiles/55b01759-2766-4676-bf85-452c10f2a429"><img alt="google%20Cloud%20" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
 </a>
 
+[![roadmap.sh](https://roadmap.sh/card/wide/6769035770129741a8b41125?variant=dark&roadmaps=golang)](https://roadmap.sh)
+
 [![Activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shonu72)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 	
