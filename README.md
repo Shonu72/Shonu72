@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **native iOS development**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-chi-eight-90.vercel.app/](https://my-portfolio-chi-eight-90.vercel.app/)
+- 👨‍💻 All of my projects are available [Here](https://shourya-portfolio-gamma.vercel.app/)
 
 - 💬 Ask me about **Flutter, Dart, Mobile App Development**
 
@@ -23,8 +23,8 @@
 <p align="left">
 <a href="https://twitter.com/kushwahashonu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kushwahashonu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sonu7250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonu7250" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/shourya-sonu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shourya-sonu" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hotreloadstudio7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hot reload studio" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13844301/shourya-sonu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shourya-sonu" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@hotreloadstudio7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Hot Reload Studio" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/shour77" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shour77" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/12220206_sonu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="12220206_sonu" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shonu72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shonu72" height="30" width="40" /></a>
