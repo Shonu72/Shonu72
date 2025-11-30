@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **native iOS development**
 
-- 👨‍💻 All of my projects are available [Here](https://shourya-portfolio-gamma.vercel.app/)
+- 👨‍💻 All of my projects are available on [My Portfolio](https://shourya-sonu.netlify.app/)
 
 - 💬 Ask me about **Flutter, Dart, Mobile App Development**
 
 - 📫 How to reach me **sonu.shour77@gmail.com**
 
-- 📄 Know about my experiences [RESUME LINK](https://drive.google.com/file/d/1RqTa7BZpLKAuu6UpH5zRg0HB8pjrJS1x/view?usp=sharing)
+- 📄 Know about my experiences [RESUME LINK](https://drive.google.com/file/d/1beXphWMG9NmQr0CkADK9v9Qyq635gLMt/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
