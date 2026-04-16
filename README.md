@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **a fitness platform app for all gym owner and member**
 
-- 🌱 I’m currently learning **native iOS development**
+- 🌱 I’m currently learning **NestJS - NodeJS framework for modular backend*
 
 - 👨‍💻 All of my projects are available on [My Portfolio](https://shourya-sonu.netlify.app/)
 
