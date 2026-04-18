@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shonu72" alt="shonu72" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/kushwahashonu" target="blank"><img src="https://img.shields.io/twitter/follow/kushwahashonu?logo=twitter&style=for-the-badge" alt="kushwahashonu" /></a> </p>
+<p align="left"> <a href="https://twitter.com/iShouryaSonu" target="blank"><img src="https://img.shields.io/twitter/follow/iShouryaSonu?logo=twitter&style=for-the-badge" alt="iShouryaSonu" /></a> </p>
 
 - 🔭 I’m currently working on **a fitness platform app for all gym owner and member**
 
@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <table>
   <tr>
-    <td><a href="https://twitter.com/kushwahashonu" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kushwahashonu" height="30" width="40" /></a></td>
+    <td><a href="https://twitter.com/iShouryaSonu" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kushwahashonu" height="30" width="40" /></a></td>
     <td><a href="https://linkedin.com/in/sonu7250" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonu7250" height="30" width="40" /></a></td>
     <td><a href="https://stackoverflow.com/users/13844301/shourya-sonu" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shourya-sonu" height="30" width="40" /></a></td>
     <td><a href="https://www.youtube.com/@iShouryaSonu" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iShouryaSonu" height="30" width="40" /></a></td>
