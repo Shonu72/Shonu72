@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/iShouryaSonu" target="blank"><img src="https://img.shields.io/twitter/follow/iShouryaSonu?logo=twitter&style=for-the-badge" alt="iShouryaSonu" /></a> </p>
 
-- 🔭 I’m currently working on **a fitness platform app for all gym owner and member**
+- 🔭 I’m currently working on ** surveyjs package for flutter **
 
 - 🌱 I’m currently learning **NestJS - NodeJS framework for modular backend*
 
