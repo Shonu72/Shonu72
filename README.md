@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shonu72&label=Profile%20views&color=0e75b6&style=flat" alt="shonu72" /> </p>
 
-![](https://github-trophies.vercel.app/?username=shonu72)
-
 <p align="left"> <a href="https://twitter.com/iShouryaSonu" target="blank"><img src="https://img.shields.io/twitter/follow/iShouryaSonu?logo=twitter&style=for-the-badge" alt="iShouryaSonu" /></a> </p>
 
 - 🔭 I’m currently working on **a fitness platform app for all gym owner and member**
@@ -71,6 +69,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shonu72&show_icons=true&locale=en&layout=compact" alt="shonu72" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shonu72&show_icons=true&locale=en" alt="shonu72" /></p>
+
+![](https://github-trophies.vercel.app/?username=shonu72)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shonu72&" alt="shonu72" /></p>
 
