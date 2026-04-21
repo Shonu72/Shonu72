@@ -66,7 +66,7 @@
 </table>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ztnknk3os7"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ztnknk3os7" /></a></p><br><br>
+<!-- <p><a href="https://www.buymeacoffee.com/ztnknk3os7"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ztnknk3os7" /></a></p><br><br> -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shonu72&show_icons=true&locale=en&layout=compact" alt="shonu72" /></p>
 
