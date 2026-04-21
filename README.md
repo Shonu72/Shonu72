@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shonu72&label=Profile%20views&color=0e75b6&style=flat" alt="shonu72" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/shonu72/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shonu72&theme=onedark)](https://github.com/shonu72/github-profile-trophy)
 
 <p align="left"> <a href="https://twitter.com/iShouryaSonu" target="blank"><img src="https://img.shields.io/twitter/follow/iShouryaSonu?logo=twitter&style=for-the-badge" alt="iShouryaSonu" /></a> </p>
 
