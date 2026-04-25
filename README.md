@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sonu.shour77@gmail.com**
 
-- 📄 Know about my experiences [RESUME LINK](https://drive.google.com/file/d/1beXphWMG9NmQr0CkADK9v9Qyq635gLMt/view)
+- 📄 Know about my experiences [RESUME LINK](https://drive.google.com/file/d/1-eJuBY54h8h1fCEQyG8OmOaFOCmI8iTO/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <table>
