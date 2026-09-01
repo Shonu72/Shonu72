@@ -1,80 +1,225 @@
-<h1 align="center">Hi 👋, I'm Shourya Sonu</h1>
-<h3 align="center">A passionate Full-Stack App Developer from India</h3>
+# Hey, I'm Shourya Sonu 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shonu72&label=Profile%20views&color=0e75b6&style=flat" alt="shonu72" /> </p>
+### Full-Stack Mobile Engineer · Flutter · iOS · Backend · AI
 
-<p align="left"> <a href="https://twitter.com/iShouryaSonu" target="blank"><img src="https://img.shields.io/twitter/follow/iShouryaSonu?logo=twitter&style=for-the-badge" alt="iShouryaSonu" /></a> </p>
+I build **production mobile products, backend systems, and developer tools** — mostly with Flutter, Swift, React, Node.js, and PostgreSQL.
 
+I care about **shipping things that work in the real world**: offline-first systems, reliable sync, lean interfaces, performance, and infrastructure that doesn't fall apart in production.
 
-- 👨‍💻 All of my projects are available on [My Portfolio](https://shouryasonu.me/)
+**20+ apps shipped · 2.5+ years production experience · 1,000+ developers using my Flutter package**
 
-- 💬 Ask me about **Flutter, Dart, Mobile App Development**
+[🌐 Portfolio](https://shouryasonu.me/) · [💼 LinkedIn](https://www.linkedin.com/in/sonu7250/) · [📄 Resume](https://drive.google.com/file/d/1NmDHoVMEraZWHh-CMkp1peLBnOHIFNT1/view?usp=sharing)
 
-- 📫 How to reach me **sonu.shour77@gmail.com**
+<p>
+  <img src="https://komarev.com/ghpvc/?username=shonu72&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-- 📄 Know about my experiences [RESUME LINK](https://drive.google.com/file/d/1-eJuBY54h8h1fCEQyG8OmOaFOCmI8iTO/view?usp=drive_link)
+---
 
-<h3 align="left">Connect with me:</h3>
-<table>
-  <tr>
-    <td><a href="https://twitter.com/iShouryaSonu" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kushwahashonu" height="30" width="40" /></a></td>
-    <td><a href="https://linkedin.com/in/sonu7250" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonu7250" height="30" width="40" /></a></td>
-    <td><a href="https://stackoverflow.com/users/13844301/shourya-sonu" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shourya-sonu" height="30" width="40" /></a></td>
-    <td><a href="https://www.youtube.com/@iShouryaSonu" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iShouryaSonu" height="30" width="40" /></a></td>
-    <td><a href="https://www.codechef.com/users/shour77" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shour77" height="30" width="40" /></a></td>
-    <td><a href="https://www.hackerrank.com/12220206_sonu" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="12220206_sonu" height="30" width="40" /></a></td>
-    <td><a href="https://www.leetcode.com/shonu72" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shonu72" height="30" width="40" /></a></td>
-    <td><a href="https://auth.geeksforgeeks.org/user/shourya7250" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shourya7250" height="30" width="40" /></a></td>
-  </tr>
-</table>
+## What I Build
 
-<h3 align="left">Languages and Tools:</h3>
-<table>
-  <tr>
-    <td align="center" width="60"><a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" style="display:block;margin:auto"/></a></td>
-    <td align="center" width="60"><a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" style="display:block;margin:auto"/></a></td>
-    <td align="center" width="60"><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="display:block;margin:auto"/></a></td>
-    <td align="center" width="60"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="display:block;margin:auto"/></a></td>
-    <td align="center" width="60"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="display:block;margin:auto"/></a></td>
-    <td align="center" width="60"><a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" style="display:block;margin:auto"/></a></td>
-    <td align="center" width="60"><a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="display:block;margin:auto"/></a></td>
-    <td align="center" width="60"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="display:block;margin:auto"/></a></td>
-    <td align="center" width="60"><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" style="display:block;margin:auto"/></a></td>
-    <td align="center" width="60"><a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" style="display:block;margin:auto"/></a></td>
-    <td align="center" width="60"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="display:block;margin:auto"/></a></td>
-    <td align="center" width="60"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="display:block;margin:auto"/></a></td>
-  </tr>
-  <tr>
-    <td align="center" width="60"><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="display:block;margin:auto"/></a></td>
-    <td align="center" width="60"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="display:block;margin:auto"/></a></td>
-    <td align="center" width="60"><a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" style="display:block;margin:auto"/></a></td>
-    <td align="center" width="60"><a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" style="display:block;margin:auto"/></a></td>
-    <td align="center" width="60"><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="display:block;margin:auto"/></a></td>
-    <td align="center" width="60"><a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" style="display:block;margin:auto"/></a></td>
-    <td align="center" width="60"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="display:block;margin:auto"/></a></td>
-    <td align="center" width="60"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="display:block;margin:auto"/></a></td>
-    <td align="center" width="60"><a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" style="display:block;margin:auto"/></a></td>
-    <td align="center" width="60"><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="display:block;margin:auto"/></a></td>
-    <td align="center" width="60"><a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="display:block;margin:auto"/></a></td>
-    <td align="center" width="60"><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40" style="display:block;margin:auto"/></a></td>
-  </tr>
-</table>
+**📱 Mobile**
 
-<h3 align="left">Support:</h3>
-<!-- <p><a href="https://www.buymeacoffee.com/ztnknk3os7"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ztnknk3os7" /></a></p><br><br> -->
+Flutter · Dart · SwiftUI · iOS · Android · BLoC · Riverpod · Core Data
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shonu72&show_icons=true&locale=en&layout=compact" alt="shonu72" /></p>
+**🌐 Web**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shonu72&show_icons=true&locale=en" alt="shonu72" /></p>
+React · Next.js · TypeScript · Tailwind CSS
 
-![](https://github-trophies.vercel.app/?username=shonu72)
+**⚙️ Backend**
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shonu72&" alt="shonu72" /></p> -->
+Node.js · NestJS · PostgreSQL · Redis · REST · GraphQL · WebSockets
 
+**☁️ Infrastructure**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shonu72/shonu72/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shonu72/shonu72/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shonu72/shonu72/output/pacman-contribution-graph.svg">
-</picture>
+AWS · Docker · GitHub Actions · CI/CD
 
+**🤖 AI**
+
+Gemini · OpenAI · LangChain · RAG · Pinecone
+
+---
+
+## Featured Work
+
+### 📦 universal_file_viewer
+
+A Flutter package for previewing common document formats across platforms.
+
+**1,000+ developers · Open Source**
+
+Flutter · Dart · Platform APIs
+
+[View on pub.dev](https://pub.dev/packages/universal_file_viewer) · [Repository](https://github.com/shonu72/universal_file_viewer)
+
+---
+
+### 🔄 InspectSync
+
+An offline-first field inspection platform built around reliable synchronization.
+
+The interesting part isn't the UI — it's the sync engine.
+
+* Two-phase push/pull synchronization
+* Field-level LWW conflict resolution
+* Idempotent offline mutations
+* Retry/backoff handling
+* Secure S3 media presigning
+* Local persistence
+
+**Flutter · Node.js · PostgreSQL · Redis**
+
+[Repository](https://github.com/shonu72/InspectSync-Offline-First)
+
+---
+
+### 🧠 Paari
+
+AI-powered resume and career tooling.
+
+Built around document generation, asynchronous processing, and AI-assisted tailoring.
+
+* Gemini-powered generation
+* Redis + BullMQ job processing
+* LaTeX-based PDF generation
+* S3 document storage
+* NestJS backend
+* Turborepo monorepo
+
+**Next.js · NestJS · PostgreSQL · Redis · Gemini**
+
+[Portfolio case study](https://shouryasonu.me/projects/paari-job-hunt)
+
+---
+
+### 🔐 Secure Vault
+
+A privacy-focused offline application exploring secure local storage and resilient offline architecture.
+
+* SQLCipher encrypted database
+* AES-256 encryption
+* Biometric session locking
+* Offline mutation queue
+* Retry/backoff
+* Background processing
+
+**Flutter · Dart · SQLCipher**
+
+[Repository](https://github.com/shonu72/secure_vault_offline)
+
+---
+
+### 🧘 HabitLoop
+
+A native iOS habit tracker focused on privacy, simplicity, and system integration.
+
+* SwiftUI
+* Core Data
+* WidgetKit
+* Swift concurrency
+* Foundation Models
+* Zero external dependencies
+
+**Swift · SwiftUI · Core Data · WidgetKit**
+
+[Repository](https://github.com/shonu72/HabitLoop)
+
+---
+
+## Open Source
+
+I enjoy building tools that other developers can actually use.
+
+| Project                                                                   | What it does                                |
+| ------------------------------------------------------------------------- | ------------------------------------------- |
+| [universal_file_viewer](https://github.com/shonu72/universal_file_viewer) | Cross-platform document viewing for Flutter |
+| [dynamic_icon_changer](https://github.com/shonu72/dynamic_icon_changer)   | Dynamic application icon management         |
+| [surveyjs_flutter](https://github.com/shonu72/surveyjs_flutter)           | SurveyJS integration for Flutter            |
+| [theinspectai](https://github.com/shonu72/theinspectai)                   | Developer tooling / AI utilities            |
+
+---
+
+## Engineering Interests
+
+I'm particularly interested in problems around:
+
+* **Offline-first architecture**
+* **Mobile performance**
+* **Reliable synchronization**
+* **Distributed state**
+* **Caching & background jobs**
+* **AI-powered products**
+* **Developer tooling**
+* **Clean architecture**
+* **Product-focused engineering**
+
+I like working close to the product rather than only owning one layer of the stack.
+
+---
+
+## How I Build
+
+> **Ship first. Refine relentlessly.**
+
+I prefer simple systems that are easy to reason about.
+
+A few things I care about:
+
+**01 — Production over prototypes**
+
+A feature isn't finished when it works on my machine.
+
+**02 — Performance is a feature**
+
+Interfaces should remain responsive, including on slower devices and networks.
+
+**03 — Offline should be intentional**
+
+When connectivity disappears, the product shouldn't suddenly become useless.
+
+**04 — Own the whole problem**
+
+If solving the problem means touching Flutter, backend, database, infrastructure, or AI — that's fine.
+
+---
+
+## Currently
+
+**Building**
+
+Production mobile and full-stack products.
+
+**Exploring**
+
+AI infrastructure · system design · native iOS
+
+**Working with**
+
+Flutter · Swift · React · Node.js · PostgreSQL · Redis
+
+**Open to**
+
+Interesting engineering problems, strong product teams, and opportunities where I can own meaningful parts of the system.
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shonu72&show_icons=true&hide_border=true&count_private=true" height="165" alt="Shourya Sonu's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shonu72&layout=compact&hide_border=true" height="165" alt="Shourya Sonu's most used languages" />
+</p>
+
+---
+
+## Let's Build Something
+
+If you're building something that needs to **actually ship**, I'd like to help.
+
+**🌐 ****[shouryasonu.me](https://shouryasonu.me/)**
+
+**📧 ****[sonu.shour77@gmail.com](mailto:sonu.shour77@gmail.com)**
+
+---
+
+<sub>Built with curiosity, caffeine, and an unreasonable number of local development environments.</sub>
