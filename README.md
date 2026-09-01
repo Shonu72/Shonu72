@@ -124,10 +124,10 @@ SQLCipher AES-256 database encryption, biometric session lock, and background-is
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shonu72&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" height="165" alt="GitHub stats" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=shonu72&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" height="165" alt="GitHub stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shonu72&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Top languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shonu72&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shonu72&theme=tokyonight&hide_border=true" alt="GitHub streak" /> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shonu72/shonu72/output/pacman-contribution-graph-dark.svg">
