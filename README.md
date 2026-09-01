@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/iShouryaSonu" target="blank"><img src="https://img.shields.io/twitter/follow/iShouryaSonu?logo=twitter&style=for-the-badge" alt="iShouryaSonu" /></a> </p>
 
 
-- 👨‍💻 All of my projects are available on [My Portfolio](https://shourya-sonu.netlify.app/)
+- 👨‍💻 All of my projects are available on [My Portfolio](https://shouryasonu.me/)
 
 - 💬 Ask me about **Flutter, Dart, Mobile App Development**
 
