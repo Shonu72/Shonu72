@@ -192,4 +192,4 @@ If you're building something that needs to actually ship, I'd like to help.
   </a>
 </p>
 
-<sub>Built with curiosity, caffeine, and an unreasonable number of local development environments.</sub>
+<sub>Built with curiosity, caffeine, and an unreasonable number of local development environments. </sub>
