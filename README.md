@@ -179,7 +179,7 @@ I enjoy building tools that other developers can actually use.
 
 ---
 
-## Let's Build Something
+## Let's Build Something.  
 
 If you're building something that needs to actually ship, I'd like to help.
 
