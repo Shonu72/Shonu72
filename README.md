@@ -2,7 +2,7 @@
 
 # Hey, I'm Shourya Sonu 👋
 
-### Full-Stack Mobile Engineer · Flutter · iOS · Backend · AI
+### Full-Stack Mobile Engineer · Flutter · iOS · Backend · AI. 
 
 **I build production mobile products, backend systems, and developer tools** — mostly with Flutter, Swift, React, Node.js, and PostgreSQL.
 
