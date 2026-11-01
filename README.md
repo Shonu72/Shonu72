@@ -38,7 +38,7 @@ I care about shipping things that work in the real world: offline-first systems,
 <table>
   <tr>
     <th>20+</th>
-    <th>2.5+ yrs</th>
+    <th>3+ yrs</th>
     <th>1,000+</th>
     <th>100%</th>
   </tr>
